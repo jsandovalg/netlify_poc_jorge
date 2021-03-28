@@ -1,12 +1,13 @@
 ---
-title: Welcome to Flare
+title: Welcome to Flare Update from Netlify CMS
 ---
-
 <!-- Hero -->
 
 <!-- # Welcome to Flare -->
 
 <columns number="2" number-s="1">
+
+Hello World since Netlify CMS 
 
 Flare is a design system for front-end agile engineering.
 
@@ -92,7 +93,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum efficitu
 
 <block class="blue-box">
 
-## Boxed blue
+## Boxed blue updated
 
 Pellentesque sit amet odio semper, suscipit enim vel, molestie metus. Praesent ullamcorper facilisis lacus, ultricies efficitur nisl laoreet id. Suspendisse.
 
